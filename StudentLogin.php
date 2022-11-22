@@ -11,7 +11,9 @@
 <h2>Log in to your account</h2>
 <form>
     <input type="text" title="username" placeholder="username" />
+    <br>
     <input type="password" title="username" placeholder="password" />
+    <br>
     <button type="submit" class="btn">Login</button>
 </form>
 </body>
