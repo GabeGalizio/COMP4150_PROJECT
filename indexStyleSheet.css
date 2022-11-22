@@ -1,0 +1,20 @@
+.mainGrid{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item1{
+    padding: 10px;
+    align-items: center;
+}
+.item2{
+    padding: 10px;
+    align-items: center;
+}
+.item3{
+    padding: 10px;
+    align-items: center;
+}
