@@ -1,4 +1,6 @@
 <?php
+//viewed with localhost/webform
+
 $servername ="localhost";
 $username = "root";
 $password ="";
