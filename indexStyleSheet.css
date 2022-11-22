@@ -1,9 +1,10 @@
 .mainGrid{
     display: inline-grid;
     grid-template-columns: auto auto auto;
-    padding: 10px;
+    padding: 100px;
     justify-content: space-evenly;
     align-items: center;
+    background-color: aqua;
 }
 
 .item1{
