@@ -5,7 +5,7 @@
 <body>
 <h2>Student Home Page</h2>
 <ul>
-    <li>Update Personal Info</li>
+    <li><a href="">Update Personal Info</li>
     <li>Register for Room Placement</li>
     <li>View Invoice</li>
     <li>Make a payment</li>
