@@ -8,7 +8,12 @@
 </head>
 <body>
 <h1>Student Login</h1>
-
+<h2>Log in to your account</h2>
+<form>
+    <input type="text" title="username" placeholder="username" />
+    <input type="password" title="username" placeholder="password" />
+    <button type="submit" class="btn">Login</button>
+</form>
 </body>
 </html>
 
