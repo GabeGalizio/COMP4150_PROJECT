@@ -12,7 +12,6 @@
         <div class="item1">
             <h3><a href="StudentLogin.php">Student</a></h3>
         </div>
-
         <div class="item2">
             <h3><a href="StaffLogin.php">Staff</a></h3>
         </div>
@@ -20,8 +19,6 @@
         <div class="item3">
             <h3><a href="AdminLogin.php">Admin</a></h3>
         </div>
-
-
     </div>
 
     </body>
