@@ -9,7 +9,7 @@
     <li>Register for Room Placement</li>
     <li>View Invoice</li>
     <li>Make a payment</li>
-    <li>Exit</li>
+    <li><a href="index.php"> Exit</li>
 </ul>
 </body>
 </html>
